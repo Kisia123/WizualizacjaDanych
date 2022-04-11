@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\main.cpp(134,20): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\main.cpp(177,30): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\main.cpp(205,35): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\main.cpp(206,15): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\main.cpp(207,35): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  trójkat.vcxproj -> C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\x64\Debug\trójkat.exe

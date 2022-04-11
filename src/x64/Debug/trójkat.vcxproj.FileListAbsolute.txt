@@ -1,0 +1,2 @@
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\x64\Debug\trójkat.exe
+C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\trójkat\x64\Debug\trójkat.pdb

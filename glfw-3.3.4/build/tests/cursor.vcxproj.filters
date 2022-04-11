@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\glfw-3.3.4\tests\cursor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\glfw-3.3.4\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\glfw-3.3.4\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nikola\Desktop\STUDIA\SEMESTR 5\WD\Lab1\glfw-3.3.4\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3AD0B8D4-845A-31EE-AD10-14D155B22A67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{035E6EE9-90C9-3A8F-8DAD-AFDCE58A2FD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
