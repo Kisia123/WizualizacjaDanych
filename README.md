@@ -1,2 +1,2 @@
 # WizualizacjaDanych
-Semestr 3 - WD - OpenGL
+Semestr 5 - WD - OpenGL
